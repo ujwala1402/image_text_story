@@ -3,7 +3,6 @@ torch
 langchain
 groq
 langchain-groq
-python-groq
 python-dotenv
 requests
 streamlit
